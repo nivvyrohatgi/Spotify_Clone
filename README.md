@@ -2,7 +2,7 @@
 
 Spotify Clone 🎧
 
-Live Demo: View Spotify Clone
+**Live Demo:** [View Spotify Clone](https://spotify-clone-mocha-chi.vercel.app/)
 
 A simple, Spotify-inspired music website built using HTML and CSS as part of a web development workshop.
 
